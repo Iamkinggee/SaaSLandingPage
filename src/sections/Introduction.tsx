@@ -13,7 +13,7 @@ export default function Introduction() {
                 <div className="text-4xl md:text-6xl lg:7xl text-center font-medium mt-10">
                     <span>Your creative process deserves better.</span>{" "}
                     <span className="text-white/15">{text}</span>
-                    <span className="text-lime-400 block">That&apos;s why we built Lorem  dolor sit amet consectet </span>
+                    <span className="text-lime-400 block">That&apos;s why we built this amazing product, just for you. </span>
                 </div>
 
             </div>
